@@ -15,4 +15,4 @@
 - Improving Apex logic & bulk handling
 - Building real-time Salesforce use cases
 
-📫 LinkedIn:[(https://www.linkedin.com/in/naveen-bansal-2508/)]
+📫 LinkedIn:https://www.linkedin.com/in/naveen-bansal-2508/
