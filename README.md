@@ -1,10 +1,18 @@
-- 👋 Hi, I’m @naveen 2508
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning cpp language
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me  My email - id -nb458316@gmail.com
+## 👋 Hi, I'm Naveen Bansal
 
-<!---
-nb91-09/nb91-09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔹 Salesforce Administrator with 3.5+ years of experience  
+🔹 Strong in Security Model, Automation & Data Handling  
+🔹 Hands-on with Apex Triggers and Visualforce Pages  
+
+### 🛠 Skills
+- Salesforce Admin (Profiles, Permission Sets, Sharing)
+- Flows & Validation Rules
+- Apex (Basic Triggers, SOQL)
+- Visualforce Pages
+- Data Migration
+
+### 🚀 Current Focus
+- Improving Apex logic & bulk handling
+- Building real-time Salesforce use cases
+
+📫 LinkedIn:[(https://www.linkedin.com/in/naveen-bansal-2508/)]
